@@ -1,6 +1,6 @@
 # Aurora Lernspiele
 
-Startseite aller Lernspiele von Mathias Georgi (MPS St. Blasius, Dornburg): https://aurora-lernspiele.github.io
+Startseite aller Lernspiele von Mathias Georgi (Weilburg): https://aurora-lernspiele.github.io
 
 | Spiel | Zielgruppe | Link |
 |---|---|---|
